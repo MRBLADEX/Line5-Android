@@ -26,5 +26,5 @@
 若您喜欢这款游戏，期待您的打赏：
 
 <div align="center">
-  <img src="https://github.com/MRBLADEX/Line5-Android/blob/master/intro/support.jpg">
+  <img src="https://github.com/MRBLADEX/Line5-Android/blob/main/intro/support.jpg">
 </div>
